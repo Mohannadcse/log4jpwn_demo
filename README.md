@@ -223,22 +223,7 @@ openssl                  1.1.1n-0+deb11u1         (won't fix)              deb  
 openssl                  1.1.1n-0+deb11u1         1.1.1n-0+deb11u2         deb           CVE-2022-1292        Critical    
 openssl                  1.1.1n-0+deb11u1         1.1.1n-0+deb11u3         deb           CVE-2022-2068        Critical    
 openssl                  1.1.1n-0+deb11u1                                  deb           CVE-2010-0928        Negligible  
-zlib1g                   1:1.2.11.dfsg-2+deb11u1  1:1.2.11.dfsg-2+deb11u2  deb           CVE-2022-37434       Critical    
-moh@FitDocker:~$ docker images
-REPOSITORY                     TAG       IMAGE ID       CREATED        SIZE
-d_log4jpwn_fe5862fa_bin_java   latest    3c3b04ee2e39   2 hours ago    173MB
-log4jpwn                       latest    e0e54ae02548   2 hours ago    215MB
-<none>                         <none>    1d5dee264678   2 hours ago    573MB
-<none>                         <none>    a9cb6afeb0fc   2 hours ago    571MB
-<none>                         <none>    01524eb8b02b   3 hours ago    571MB
-<none>                         <none>    0fc063b58ec4   3 hours ago    571MB
-<none>                         <none>    dc679c42f6af   4 hours ago    215MB
-<none>                         <none>    4495a1072cb8   4 hours ago    571MB
-<none>                         <none>    793c5e39032c   4 hours ago    215MB
-<none>                         <none>    82ec2df63eb1   4 hours ago    215MB
-<none>                         <none>    fc46e43d33c5   6 hours ago    215MB
-maven                          latest    eee42bfd68d5   8 days ago     535MB
-gcr.io/distroless/java         11        4c4b3da468da   52 years ago   210MB 
+zlib1g                   1:1.2.11.dfsg-2+deb11u1  1:1.2.11.dfsg-2+deb11u2  deb           CVE-2022-37434       Critical
 ```
 
 - After 
